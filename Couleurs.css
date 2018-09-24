@@ -4,3 +4,21 @@
   height: 50px;
   background: #2ecc71;
 }
+.rectangle2 {
+  float: right;
+  width: 20%;
+  height: 50px;
+  background: #2980b9;
+}
+.rectangle3 {
+  float: left;
+  width: 30%;
+  height: 100px;
+  background: #e74c3c;
+}
+.rectangle4 {
+  float: left;
+  width: 30%;
+  height: 50px;
+  background: #e67e22;
+}
